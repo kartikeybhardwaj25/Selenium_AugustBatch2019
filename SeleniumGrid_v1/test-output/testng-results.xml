@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestGrid" duration-ms="28379" started-at="2019-08-31T16:50:59Z" finished-at="2019-08-31T16:51:27Z">
+    <groups>
+    </groups>
+    <test name="Test Node 2" duration-ms="22831" started-at="2019-08-31T16:50:59Z" finished-at="2019-08-31T16:51:21Z">
+      <class name="grid.Node2">
+        <test-method status="PASS" signature="f()[pri:0, instance:grid.Node2@1563da5]" name="f" duration-ms="22782" started-at="2019-08-31T16:50:59Z" finished-at="2019-08-31T16:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- grid.Node2 -->
+    </test> <!-- Test Node 2 -->
+    <test name="Test Node 1" duration-ms="28379" started-at="2019-08-31T16:50:59Z" finished-at="2019-08-31T16:51:27Z">
+      <class name="grid.Node1">
+        <test-method status="PASS" signature="f()[pri:0, instance:grid.Node1@5a1c0542]" name="f" duration-ms="28325" started-at="2019-08-31T16:50:59Z" finished-at="2019-08-31T16:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- grid.Node1 -->
+    </test> <!-- Test Node 1 -->
+  </suite> <!-- TestGrid -->
+</testng-results>
