@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66980" started-at="2019-09-07T16:35:39Z" finished-at="2019-09-07T16:36:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66980" started-at="2019-09-07T16:35:39Z" finished-at="2019-09-07T16:36:46Z">
+      <class name="DataDrivenTest.DemoTours_UsingExcel">
+        <test-method status="PASS" signature="loginDemoTours(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.DemoTours_UsingExcel@2353b3e6]" name="loginDemoTours" duration-ms="19693" started-at="2019-09-07T16:35:39Z" data-provider="MercuryTours" finished-at="2019-09-07T16:35:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDemoTours -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:DataDrivenTest.DemoTours_UsingExcel@2353b3e6]" name="teardown" is-config="true" duration-ms="1138" started-at="2019-09-07T16:35:59Z" finished-at="2019-09-07T16:36:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="loginDemoTours(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.DemoTours_UsingExcel@2353b3e6]" name="loginDemoTours" duration-ms="14324" started-at="2019-09-07T16:36:00Z" data-provider="MercuryTours" finished-at="2019-09-07T16:36:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDemoTours -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:DataDrivenTest.DemoTours_UsingExcel@2353b3e6]" name="teardown" is-config="true" duration-ms="958" started-at="2019-09-07T16:36:14Z" finished-at="2019-09-07T16:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="loginDemoTours(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.DemoTours_UsingExcel@2353b3e6]" name="loginDemoTours" duration-ms="14307" started-at="2019-09-07T16:36:15Z" data-provider="MercuryTours" finished-at="2019-09-07T16:36:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDemoTours -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:DataDrivenTest.DemoTours_UsingExcel@2353b3e6]" name="teardown" is-config="true" duration-ms="1157" started-at="2019-09-07T16:36:30Z" finished-at="2019-09-07T16:36:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="loginDemoTours(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.DemoTours_UsingExcel@2353b3e6]" name="loginDemoTours" duration-ms="14346" started-at="2019-09-07T16:36:31Z" data-provider="MercuryTours" finished-at="2019-09-07T16:36:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDemoTours -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:DataDrivenTest.DemoTours_UsingExcel@2353b3e6]" name="teardown" is-config="true" duration-ms="992" started-at="2019-09-07T16:36:45Z" finished-at="2019-09-07T16:36:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- DataDrivenTest.DemoTours_UsingExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
