@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88319" started-at="2019-09-08T17:45:47Z" finished-at="2019-09-08T17:47:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88319" started-at="2019-09-08T17:45:47Z" finished-at="2019-09-08T17:47:15Z">
+      <class name="keywordTestCase.application">
+        <test-method status="PASS" signature="applicationTest()[pri:0, instance:keywordTestCase.application@78e67e0a]" name="applicationTest" duration-ms="88259" started-at="2019-09-08T17:45:47Z" finished-at="2019-09-08T17:47:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationTest -->
+      </class> <!-- keywordTestCase.application -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
