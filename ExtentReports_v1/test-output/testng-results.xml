@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="32015" started-at="2019-09-15T11:28:51Z" finished-at="2019-09-15T11:29:23Z">
+  <suite name="Default suite" duration-ms="48810" started-at="2019-09-15T18:02:59Z" finished-at="2019-09-15T18:03:47Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="32015" started-at="2019-09-15T11:28:51Z" finished-at="2019-09-15T11:29:23Z">
+    <test name="Default test" duration-ms="48810" started-at="2019-09-15T18:02:59Z" finished-at="2019-09-15T18:03:47Z">
       <class name="edu.ext.ExtentReportV4">
-        <test-method status="PASS" signature="extentReportSetup()[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="extentReportSetup" is-config="true" duration-ms="231" started-at="2019-09-15T11:28:51Z" finished-at="2019-09-15T11:28:51Z">
+        <test-method status="PASS" signature="extentReportSetup()[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="extentReportSetup" is-config="true" duration-ms="398" started-at="2019-09-15T18:02:59Z" finished-at="2019-09-15T18:02:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- extentReportSetup -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="setup" is-config="true" duration-ms="12886" started-at="2019-09-15T11:28:51Z" finished-at="2019-09-15T11:29:04Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="setup" is-config="true" duration-ms="18229" started-at="2019-09-15T18:02:59Z" finished-at="2019-09-15T18:03:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="GoogleLogoValidation()[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="GoogleLogoValidation" duration-ms="259" started-at="2019-09-15T11:29:04Z" finished-at="2019-09-15T11:29:04Z">
+        <test-method status="FAIL" signature="GoogleLogoValidation()[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="GoogleLogoValidation" duration-ms="172" started-at="2019-09-15T18:03:17Z" finished-at="2019-09-15T18:03:17Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [false] but found [true]]]>
@@ -58,7 +58,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GoogleLogoValidation -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="getResult" is-config="true" duration-ms="3149" started-at="2019-09-15T11:29:04Z" finished-at="2019-09-15T11:29:07Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="getResult" is-config="true" duration-ms="14967" started-at="2019-09-15T18:03:17Z" finished-at="2019-09-15T18:03:32Z">
           <params>
             <param index="0">
               <value>
@@ -69,15 +69,15 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="setup" is-config="true" duration-ms="12992" started-at="2019-09-15T11:29:07Z" finished-at="2019-09-15T11:29:20Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="setup" is-config="true" duration-ms="12901" started-at="2019-09-15T18:03:32Z" finished-at="2019-09-15T18:03:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="GoogleTittleValidation()[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="GoogleTittleValidation" duration-ms="37" started-at="2019-09-15T11:29:20Z" finished-at="2019-09-15T11:29:20Z">
+        <test-method status="PASS" signature="GoogleTittleValidation()[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="GoogleTittleValidation" duration-ms="45" started-at="2019-09-15T18:03:45Z" finished-at="2019-09-15T18:03:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GoogleTittleValidation -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="getResult" is-config="true" duration-ms="1797" started-at="2019-09-15T11:29:20Z" finished-at="2019-09-15T11:29:22Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="getResult" is-config="true" duration-ms="1273" started-at="2019-09-15T18:03:45Z" finished-at="2019-09-15T18:03:47Z">
           <params>
             <param index="0">
               <value>
@@ -88,7 +88,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="endReport()[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="endReport" is-config="true" duration-ms="629" started-at="2019-09-15T11:29:22Z" finished-at="2019-09-15T11:29:23Z">
+        <test-method status="PASS" signature="endReport()[pri:0, instance:edu.ext.ExtentReportV4@5faeada1]" name="endReport" is-config="true" duration-ms="767" started-at="2019-09-15T18:03:47Z" finished-at="2019-09-15T18:03:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endReport -->
