@@ -21,7 +21,7 @@ public class HeadlessBrowser {
 		 
 		 element.submit();
 		 
-		 System.out.println("Page title for headless browser:    " +driver.getTitle());
+		 System.out.println("Page title for htmlUnit headless browser:    " +driver.getTitle());
 		 
 		 driver.quit();
 
