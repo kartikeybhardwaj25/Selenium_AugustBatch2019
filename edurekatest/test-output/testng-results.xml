@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="17796" started-at="2019-09-14T07:25:35Z" finished-at="2019-09-14T07:25:53Z">
+  <suite name="Suite" duration-ms="18859" started-at="2019-09-14T16:49:38Z" finished-at="2019-09-14T16:49:56Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="17796" started-at="2019-09-14T07:25:35Z" finished-at="2019-09-14T07:25:53Z">
+    <test name="Test" duration-ms="18859" started-at="2019-09-14T16:49:38Z" finished-at="2019-09-14T16:49:56Z">
       <class name="edurekaTest.NewTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:edurekaTest.NewTest@6f7fd0e6]" name="beforeTest" is-config="true" duration-ms="10693" started-at="2019-09-14T07:25:35Z" finished-at="2019-09-14T07:25:46Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:edurekaTest.NewTest@1bce4f0a]" name="beforeTest" is-config="true" duration-ms="8676" started-at="2019-09-14T16:49:38Z" finished-at="2019-09-14T16:49:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="FAIL" signature="testEasy()[pri:0, instance:edurekaTest.NewTest@6f7fd0e6]" name="testEasy" duration-ms="6201" started-at="2019-09-14T07:25:46Z" finished-at="2019-09-14T07:25:52Z">
+        <test-method status="FAIL" signature="testEasy()[pri:0, instance:edurekaTest.NewTest@1bce4f0a]" name="testEasy" duration-ms="8845" started-at="2019-09-14T16:49:46Z" finished-at="2019-09-14T16:49:55Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -54,7 +54,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testEasy -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:edurekaTest.NewTest@6f7fd0e6]" name="afterTest" is-config="true" duration-ms="864" started-at="2019-09-14T07:25:52Z" finished-at="2019-09-14T07:25:53Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:edurekaTest.NewTest@1bce4f0a]" name="afterTest" is-config="true" duration-ms="1248" started-at="2019-09-14T16:49:55Z" finished-at="2019-09-14T16:49:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
