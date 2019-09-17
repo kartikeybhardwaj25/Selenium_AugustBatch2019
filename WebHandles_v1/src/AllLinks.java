@@ -25,6 +25,7 @@ public class AllLinks {
         	String text =link.getText();
         	if(text!=""||text !=null) {
         		System.out.println(text);
+        		//
         	}
         	
         }
